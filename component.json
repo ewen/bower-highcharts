@@ -1,5 +1,5 @@
 {
-  "name": "Highcharts",
+  "name": "highcharts",
   "version": "2.3.3",
   "main": "./highcharts.js",
   "dependencies": {
